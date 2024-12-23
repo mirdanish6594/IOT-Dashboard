@@ -2,6 +2,8 @@
 
 A real-time monitoring system for smart street lights developed during Smart India Hackathon (SIH) 2024. The system provides continuous monitoring of leakage current and earthing status detection for electrical pole lights.
 
+## Link: https://dynamic-boba-002e36.netlify.app/
+
 ## Problem Statement
 
 Railway stations and parking areas have numerous electrical pole lights that require constant monitoring for public safety. While these lights have earth leakage protection switchgear, malfunctions can pose risks. Manual inspection of system earthing requires significant manpower.
