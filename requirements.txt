@@ -1,0 +1,13 @@
+# Frontend Dependencies
+Node.js >= 18.0.0
+npm >= 9.0.0
+
+# Development Tools
+Git (optional, for version control)
+
+# Browser Requirements
+Modern web browser (Chrome, Firefox, Safari, or Edge)
+
+# Environment Requirements
+- Firebase Realtime Database access
+- Internet connection (for map tiles and Firebase)
