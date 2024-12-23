@@ -1,4 +1,10 @@
-# Frontend Dependencies
-Node.js >= 18.0.0
-npm >= 9.0.0
+# Python Dependencies
+# This project doesn't require any Python packages as it's a Node.js application
 
+# System Requirements
+# Node.js >= 18.0.0
+# npm >= 9.0.0
+
+# Browser Requirements
+# Modern web browser with JavaScript enabled
+# WebGL support for map rendering
